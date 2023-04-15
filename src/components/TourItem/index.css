@@ -1,0 +1,22 @@
+.each-list-item {
+  background-color: #ffffff;
+  flex-basis: 48%;
+  margin-bottom: 20px;
+  min-height: 440px;
+}
+
+.tour-image {
+  width: 100%;
+}
+
+.package-name {
+  font-family: Roboto;
+  font-weight: 500;
+  margin: 5px 10px;
+}
+
+.package-description {
+  font-family: Roboto;
+  margin: 10px;
+  font-size: 15px;
+}
